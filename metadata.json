@@ -1,0 +1,6 @@
+{
+  "name": "Melon Showroom - AI Curation Engine",
+  "description": "10년 차 음원 큐레이터의 노하우를 담은 멜론 쇼룸 리뉴얼 및 Gemini AI 기반 실시간 15초 믹스셋 큐레이션 프리뷰 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
